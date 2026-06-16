@@ -7,7 +7,7 @@
 ## 🌟 Visual Abstract (Model Overview)
 
 <p align="center">
-<img src="assets/trog_mamba_overview.png" width="85%">
+<img src="assets/model.png" width="85%">
 </p>
 
 **Figure 1. Overall architecture of TROG-Mamba.**  
@@ -160,12 +160,7 @@ python run.py \
 
 ---
 
-## 📬 Contact
 
-For questions or collaboration:  
-📧 your_email@example.com
-
----
 
 ## ⚠️ Note
 
