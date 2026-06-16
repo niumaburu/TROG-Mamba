@@ -7,7 +7,7 @@
 ## 🌟 Visual Abstract (Model Overview)
 
 <p align="center">
-<img src="assets/model.png" width="85%">
+<img src="picture/model.png" width="85%">
 </p>
 
 **Figure 1. Overall architecture of TROG-Mamba.**  
